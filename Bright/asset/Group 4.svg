@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="705" height="408" viewBox="0 0 705 408">
+  <g id="Group_4" data-name="Group 4" transform="translate(-1114 -288)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="705" height="408" rx="20" transform="translate(1114 288)" fill="#4d4dff"/>
+    <text id="Bright" transform="translate(1421 486)" fill="#fff" font-size="53" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Bright</tspan></text>
+    <path id="Icon_awesome-brain" data-name="Icon awesome-brain" d="M26.722,0a8.2,8.2,0,0,0-7.94,6.192c-.1,0-.18-.026-.283-.026a8.23,8.23,0,0,0-8.222,8.222,7.576,7.576,0,0,0,.218,1.8A10.189,10.189,0,0,0,5.177,30.178,10.24,10.24,0,0,0,6.347,48.55a9.415,9.415,0,0,0-.18,1.811,9.244,9.244,0,0,0,9.25,9.25,8.711,8.711,0,0,0,1.542-.154,9.228,9.228,0,0,0,17.986-2.929V8.222A8.23,8.23,0,0,0,26.722,0ZM74,39.056a10.224,10.224,0,0,0-5.177-8.877,10.112,10.112,0,0,0,1.066-4.484A10.278,10.278,0,0,0,63.5,16.188a8.146,8.146,0,0,0-8-10.021c-.1,0-.193.026-.283.026a8.206,8.206,0,0,0-16.162,2.03V56.528a9.228,9.228,0,0,0,17.986,2.929,8.711,8.711,0,0,0,1.542.154,9.244,9.244,0,0,0,9.25-9.25,9.414,9.414,0,0,0-.18-1.811A10.278,10.278,0,0,0,74,39.056Z" transform="translate(1337 434.667)" fill="#fff"/>
+    <text id="An_Introduction_To_Bright." data-name="An Introduction To Bright." transform="translate(1298 544)" fill="#fff" font-size="28" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">An Introduction To Bright.</tspan></text>
+    <text id="coming_soon..." data-name="coming soon..." transform="translate(1364 667)" fill="#fff" font-size="28" font-family="Poppins-Medium, Poppins" font-weight="500" opacity="0.79"><tspan x="0" y="0">coming soon...</tspan></text>
+  </g>
+</svg>
