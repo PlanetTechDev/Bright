@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
 
 body {
     background-color: #F7F8FF;
     margin: auto;
     font-family: poppins;
-    height: 2000px;
+    height: 3000px;
     
 }
 
@@ -186,7 +187,7 @@ li {
 }
 
 .socpdiv2 {
-    width: 600px;
+    width: 210px;
     height: 20px;
     margin-top: -17px;
 }
@@ -214,6 +215,7 @@ li {
 
 .strongpurp {
     color: #4D4DFF ;
+    /* font-family: Cedarville Cursive; */
 }
 
 .woclb-subtext {
@@ -235,12 +237,13 @@ li {
 }
 
 .freetrial {
-    padding: 20px 50px;
-    background-color: #3A3AFF;
+    padding: 20px 70px;
+    background-color: #6B6BF5;
     color: white;
     text-decoration: none;
     border-radius: 8px;
     font-weight: 300;
+    font-size: 0.8em;
 }
 
 .reasoningbtnwrap {
@@ -248,4 +251,93 @@ li {
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
+}
+
+.tos {
+    color: black;
+    opacity: 50%;
+    text-align: center;
+    font-size: 0.8em;
+    transition: 300ms ease;
+    text-decoration: none;
+}
+
+.tos:hover {
+    opacity: 100%;
+    text-decoration: underline;
+}
+
+.tos-wrap {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Plans Div */
+
+.plans-div {
+    width: 1200px;
+    height: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex {
+    color: #4D4DFF;
+    text-align: center;
+}
+
+.flexsub {
+    opacity: 70%;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.personal-use {
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.125) 2px 2px 20px;
+}
+.instituional-use {
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.125) 2px 2px 20px;
+}
+
+.instituional-useimg {
+    width: 400px;
+    height: 280px;
+    background-color: #4D4DFF;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(/img/newentrance_1200xx1650-928-0-174.jpg);
+   background-size: cover;
+}
+.personal-useimg {
+    width: 400px;
+    height: 280px;
+    background-color: #4D4DFF;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(/img/71232726_s.jpg);
+   background-size: cover;
+}
+
+.plans-wrap {
+    width: 350px;
+    height: 200px;
+    margin-top: 20px;
+    text-align: start;
+    margin-left: 20px;
+}
+
+.benefits {
+    font-style: normal;
+    font-size: 0.85em;
 }
