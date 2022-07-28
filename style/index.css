@@ -7,7 +7,6 @@ body {
     margin: auto;
     font-family: poppins;
     user-select: none;
-    
 }
 
 nav {
@@ -496,4 +495,103 @@ li {
 
 .nl {
     color: #3A3AFF;
+}
+
+.mobile {
+    display: none;
+}
+
+.mobile-div {
+    width: 460px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+/* Resize for other device */
+
+/* Mobile */
+
+@media only screen and (max-width: 600px) {
+    body {
+        overflow-x: hidden;
+
+        margin: auto;
+        background-color: #d7d7ff;
+
+    }
+
+    ul {
+        display: none;
+    }
+
+    .brghtlogo {
+        width: 8em;
+        margin-right: 240px;
+    }
+    
+    .brghtnav:hover {
+        color: rgb(61, 84, 255);
+        opacity: 100%;
+    }
+    
+    .signup {
+        display: none;
+        
+    
+    }
+    .login {
+       display: none;
+    }
+    .btnhover {
+        cursor: pointer;
+    }
+    
+    /* Main Divider below the nav. */
+    
+    .main-div {
+        height: 600px;
+        width: 1em;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 90px;
+        user-select: none;
+        display:  none;
+    
+   
+  }
+
+  .mobile {
+    text-align: center;
+    display: block;
+    
+  }
+
+  .headingmobie {
+    font-weight: 600;
+  }
+
+  .reasoningbright {
+    display: none;
+  }
+
+  .plans-div {
+    display: none;
+  }
+
+  .subheadmobile {
+    opacity: 50%;
+    text-align: center;
+  }
+
+  .mobile-div {
+    width: 25em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+}
+
+.bannerpediv {
+    display: none;
 }
