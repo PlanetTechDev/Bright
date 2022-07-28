@@ -528,8 +528,7 @@ li {
         overflow-x: hidden;
         margin: auto;
         overscroll-behavior: contain;
-        overflow: hidden;
-        position: absolute;
+
     }
 
     ul {
