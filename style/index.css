@@ -147,7 +147,13 @@ li {
     color: white;
     font-family: poppins;
     margin-left: 10px;
+    transition: 300ms ease;
 
+}
+
+.gfree:hover {
+    background-color: #3838ff;
+    box-shadow: #5555ff48 0px 3px 1px; 
 }
 .moreinfo {
     padding: 20px 24px;
@@ -159,9 +165,14 @@ li {
     font-size: 13px;
     text-decoration: none;
     font-weight: 500;
+    transition: 300ms ease;
 
 }
 
+.moreinfo:hover {
+    border: 2px solid #3838ff;;
+    box-shadow: #5555ff48 0px 3px 1px; 
+}
 .socp {
     font-size: 12px;
     opacity: 50%;
@@ -590,6 +601,61 @@ li {
     margin-right: auto;
     display: block;
 }
+
+    .bannerpediv {
+        width: 29em;
+        height: 75em;
+        background-size: cover;
+        
+    }
+
+    .j529d {
+        width: 400px;
+        height: 65em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .big {
+        width: 340px;
+    }
+
+    .textlayer1 {
+        width: 340px;
+        height: 300px;
+        display: block;
+    }
+
+    .text2 {
+        width: 340px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .text1 {
+        height: 150px;
+    }
+    .text3 {
+        
+        width: 340px;
+    }
+
+    .betterhead {
+        color: black;
+        font-weight: 500;
+        width: 340px;
+    
+    }
+    
+    .betterpara {
+        width: 340px;
+
+        color: black;
+        opacity: 30%;
+        font-weight: 400;
+        font-size: 1em;
+    }
+    
 }
 
 .bannerpediv {
