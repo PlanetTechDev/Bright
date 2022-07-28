@@ -563,6 +563,9 @@ li {
   .mobile {
     text-align: center;
     display: block;
+    width: 50vh;
+    margin-left: auto;
+    margin-right: auto;
     
   }
 
