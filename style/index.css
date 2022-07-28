@@ -524,7 +524,14 @@ li {
 /* Mobile */
 
 @media only screen and (max-width: 600px) {
+
+    html {
+        overflow-x: hidden;
+        overflow: hidden;
+        overflow-y: scroll;
+    }
     body {
+        width: fit-content;
         overflow-x: hidden;
         margin: auto;
         overscroll-behavior: contain;
@@ -676,7 +683,7 @@ li {
     }
 
     .formdiv {
-        width: 370px;
+        width: fit-content;
         margin-left: auto;
         margin-right: auto;
     }
