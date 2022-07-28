@@ -6,7 +6,8 @@ body {
     background-color: #F7F8FF;
     margin: auto;
     font-family: poppins;
-    height: 3000px;
+    height: 4500px;
+    user-select: none;
     
 }
 
@@ -340,4 +341,156 @@ li {
 .benefits {
     font-style: normal;
     font-size: 0.85em;
+}
+
+.bannerpediv {
+    width: 1490px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-image: url(/img/106811249-1607997825355-gettyimages-993565470-pi-1684490.jpeg);
+    background-size: ;
+}
+
+.j529d {
+    background-color: white;
+    width: 880px;
+    height: 670px;
+    margin-left: 50px;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.241) 1px 1px 50px;
+}
+
+.textlayer1 {
+    width: 800px;
+    height: 180px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.big {
+    width: 600px;
+    margin-left: 50px;
+    color: black;
+}
+
+.text1 {
+   width: 400px;
+   
+   
+}
+
+.betterhead {
+    color: black;
+    font-weight: 500;
+
+}
+
+.betterpara {
+    color: black;
+    opacity: 30%;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.text2 {
+    margin-left: 50px;
+    width: 400px;
+}
+
+.text3 {
+    
+    width: 400px;
+}
+
+.learn {
+    margin-left: 50px;
+    padding: 20px 50px;
+    border: black 3px solid;
+    border-radius: 8px;
+    color: black;
+    font-weight: 400;
+    text-decoration: none;
+    transition: 300ms ease;
+}
+
+.learn:hover {
+    background-color: black;
+    color: white;
+    text-shadow: white 2px 2px 10px;
+}
+
+.newsletterdiv {
+    width: 1300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+.formdiv {
+    width: 650px;
+    height: 500px;
+    display: flex;
+    
+}
+.imgdiv {
+    width: 650px;
+    height: 500px;
+    margin-left: 200px;
+}
+
+.formdivsecondary {
+    width: 650px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.formform {
+    height: 50px;
+    width: 450px;
+    background-color: rgba(245, 245, 220, 0);
+    border: #707070 2px solid;
+    border-radius: 4px;
+    font-family: Poppins;
+    padding-left: 15px;
+    font-weight: 500;
+}
+
+.signupnews {
+    height: 50px;
+    width: 470px;
+    padding-left:15px;
+    background-color: #4646DB;
+    color: white;
+    font-family: Poppins;
+    border: none;
+    border-radius: 4px;
+    transition: 300ms ease;
+
+}
+
+.signupnews:hover {
+    box-shadow: #6161e460 0px 3px 20px;
+    background-color: #4848ff;
+    text-shadow: white 3px 3px 40px;
+    cursor: pointer;
+}
+
+.asks {
+    opacity: 30%;
+    font-weight: 400;
+}
+
+.imgwrap {
+    width: 650px;
+    height: 500px;
+    background-color: #2121d3;
+    border-radius: 25px;
+    background-image: url(/img/Graphic-illustration-of-brain-impulses-on-blue-background.jpg);
+    margin-left: auto;
+    margin-right: auto;
 }
