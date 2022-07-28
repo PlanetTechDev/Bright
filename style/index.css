@@ -573,7 +573,7 @@ li {
   .mobile {
     text-align: center;
     display: block;
-    width: fit-content;
+    
     margin-left: auto;
     margin-right: auto;
     
@@ -604,6 +604,7 @@ li {
 }
 
     .bannerpediv {
+        border-radius: 4px;
         width: 65vh;
         height: 75em;
         background-size: cover;
@@ -611,7 +612,7 @@ li {
     }
 
     .j529d {
-        width: 400px;
+        width: 64vh;
         height: 65em;
         margin-left: auto;
         margin-right: auto;
@@ -658,8 +659,10 @@ li {
     }
     
     .newsletterdiv {
-        width: 370px;
+        width: 60vh;
         display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
     
     .imgdiv {
@@ -674,8 +677,6 @@ li {
 
     .formdivsecondary {
         width: 370px;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     .formform {
