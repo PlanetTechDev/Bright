@@ -365,7 +365,7 @@ li {
 .j529d {
     background-color: white;
     width: 880px;
-    height: 670px;
+    height: 690px;
     margin-left: 50px;
     border-radius: 12px;
     box-shadow: rgba(0, 0, 0, 0.241) 1px 1px 50px;
@@ -598,7 +598,6 @@ li {
   }
 
   .mobile-div {
-
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -610,14 +609,17 @@ li {
         width: fit-content;
         height: 75em;
         background-size: cover;
+        margin-left: auto;
+        margin-right: auto;
         
     }
 
     .j529d {
-        height: 65em;
+        height: 67em;
         width: fit-content;
         margin-left: auto;
         margin-right: auto;
+        
     }
 
     .big {
@@ -625,40 +627,41 @@ li {
     }
 
     .textlayer1 {
-        width: fit-content;
-        width: 340px;
+        width: 300px;
         height: 300px;
         display: block;
     }
 
     .text2 {
-        width: 340px;
+        width: fit-content;
         margin-left: auto;
         margin-right: auto;
     }
     
     .text1 {
+        width: fit-content;
         height: 150px;
     }
     .text3 {
         
-        width: 340px;
+        width: fit-content;
     }
 
     .betterhead {
         color: black;
         font-weight: 500;
-        width: 340px;
+        width: fit-content;
+        height: 30px;
     
     }
     
     .betterpara {
-        width: 340px;
-
+        width: fit-content;
         color: black;
         opacity: 30%;
         font-weight: 400;
         font-size: 1em;
+        height: 150px;
     }
     
     .newsletterdiv {
@@ -688,6 +691,10 @@ li {
 
     .signupnews {
         width: 320px;
+    }
+
+    .learn {
+       
     }
 }
 
