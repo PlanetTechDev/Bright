@@ -515,7 +515,6 @@ li {
 @media only screen and (max-width: 600px) {
     body {
         overflow-x: hidden;
-
         margin: auto;
         background-color: #d7d7ff;
 
@@ -585,7 +584,7 @@ li {
   }
 
   .mobile-div {
-    width: 25em;
+    width: 55vh;
     margin-left: auto;
     margin-right: auto;
     display: block;
