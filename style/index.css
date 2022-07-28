@@ -516,8 +516,6 @@ li {
     body {
         overflow-x: hidden;
         margin: auto;
-        background-color: #d7d7ff;
-
     }
 
     ul {
@@ -563,7 +561,7 @@ li {
   .mobile {
     text-align: center;
     display: block;
-    width: 50vh;
+    width: fit-content;
     margin-left: auto;
     margin-right: auto;
     
@@ -587,7 +585,7 @@ li {
   }
 
   .mobile-div {
-    width: 55vh;
+
     margin-left: auto;
     margin-right: auto;
     display: block;
