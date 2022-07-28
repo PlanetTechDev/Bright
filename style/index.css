@@ -627,8 +627,8 @@ li {
     }
 
     .textlayer1 {
-        width: 300px;
-        height: 300px;
+        width: fit-content;
+        height: 340px;
         display: block;
     }
 
