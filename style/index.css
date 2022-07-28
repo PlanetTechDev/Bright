@@ -6,7 +6,6 @@ body {
     background-color: #F7F8FF;
     margin: auto;
     font-family: poppins;
-    height: 4500px;
     user-select: none;
     
 }
@@ -493,4 +492,8 @@ li {
     background-image: url(/img/Graphic-illustration-of-brain-impulses-on-blue-background.jpg);
     margin-left: auto;
     margin-right: auto;
+}
+
+.nl {
+    color: #3A3AFF;
 }
