@@ -606,14 +606,14 @@ li {
 
     .bannerpediv {
         border-radius: 4px;
-        width: 65vh;
+        width: fit-content;
         height: 75em;
         background-size: cover;
         
     }
 
     .j529d {
-        width: 64vh;
+        width: 55vh;
         height: 65em;
         margin-left: auto;
         margin-right: auto;
